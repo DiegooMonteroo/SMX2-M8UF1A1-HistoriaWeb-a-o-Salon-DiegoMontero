@@ -19,5 +19,5 @@ En los meses posteriores al memorando, Microsoft lanzaría su primer navegador w
 ## 2 Algunos puntos clave del memorando incluyen:
 
 |Importancia de la web: Gates destacó que Internet sería esencial para todas las áreas del negocio.|
-|Publicidad online: Predijo que Internet se convertiría en el principal vehículo promocional.| ![publicidadonline.png] |
+|Publicidad online: Predijo que Internet se convertiría en el principal vehículo promocional.|![publicidadonline.png] |
 |Videollamadas y streaming: Anticipó el desarrollo de las videollamadas y la transmisión de video en tiempo real2.|
