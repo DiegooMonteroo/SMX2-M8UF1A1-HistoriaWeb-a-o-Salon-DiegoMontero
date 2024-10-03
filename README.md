@@ -4,9 +4,7 @@ La ola gigante de Internet
 
 ![foto1](https://dplnews.com/25-anos-del-dia-que-bill-gates-se-subio-a-la-ola-de-internet/#:~:text=Pero%20desde%20la%20cresta%20de%20esa%20ola,%20Gates)
 
-Historia
-
-# Historia
+1. Historia
 
 El 26 de mayo de 1995, envió a Microsoft un memorando a todos los empleados llamado el (MAREMOTO DE INTERNET).
 
