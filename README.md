@@ -1,6 +1,5 @@
 # SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero
 
-Salón
+La ola gigante de Internet
 
-Fundada por editores de  The San Francisco Examiner
-![foto](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/41265/15.bmp)
+![foto1](https://dplnews.com/25-anos-del-dia-que-bill-gates-se-subio-a-la-ola-de-internet/#:~:text=Pero%20desde%20la%20cresta%20de%20esa%20ola,%20Gates)
