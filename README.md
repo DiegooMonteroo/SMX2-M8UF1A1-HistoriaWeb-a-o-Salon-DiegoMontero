@@ -9,7 +9,7 @@ El 26 de mayo de 1995, Bill Gates envió a Microsoft un memorando a todos los em
 ![foto1.jpg](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/foto1.jpg)
 
 
-Al cambiar su opinión anterior sobre Internet,! [https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/descarga.jpg)
+Al cambiar su opinión anterior sobre Internet,![descarga.jpg](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/descarga.jpg)
 
 Lo convierte en el centro del futuro de Microsoft. 
 
