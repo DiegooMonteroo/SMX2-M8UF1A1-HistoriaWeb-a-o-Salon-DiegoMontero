@@ -18,15 +18,17 @@ En los meses posteriores al memorando, Microsoft lanzaría su primer navegador w
 
 ## 2 Algunos puntos clave del memorando incluyen:
 
-	1. Importancia de la web: Gates destacó que Internet sería esencial para todas las áreas del negocio.
+| Punto clave | Respuesta|
+|-------------|----------|
+|1. Importancia de la web| Gates destacó que Internet sería esencial para todas las áreas del negocio.|
 
-	2. Publicidad online: Predijo que Internet se convertiría en el principal vehículo promocional.
+2. Publicidad online: Predijo que Internet se convertiría en el principal vehículo promocional.
 
-	3. Videollamadas y streaming: Anticipó el desarrollo de las videollamadas y la transmisión de video en tiempo real2.
+3. Videollamadas y streaming: Anticipó el desarrollo de las videollamadas y la transmisión de video en tiempo real2.
 
-	4. Dispositivos Móviles: Gates vio que los dispositivos móviles se convertirían en herramientas esenciales para acceder a Internet. Esto se ha materializado con la proliferación de smartphones y tablets.
+4. Dispositivos Móviles: Gates vio que los dispositivos móviles se convertirían en herramientas esenciales para acceder a Internet. Esto se ha materializado con la proliferación de smartphones y tablets.
 
-	5. Servicios en la Nube: Aunque no usó el término “nube”, Gates habló sobre la importancia de los servicios en línea y el almacenamiento de datos, lo que hoy conocemos como computación en la nube.
+5. Servicios en la Nube: Aunque no usó el término “nube”, Gates habló sobre la importancia de los servicios en línea y el almacenamiento de datos, lo que hoy conocemos como computación en la nube.
 
 Dicho memorando hizo un punto de inflexión para Microsoft, dándole el enfoque hacia la web y consolidando a Bill Gates como un líder tecnológico visionario
 
