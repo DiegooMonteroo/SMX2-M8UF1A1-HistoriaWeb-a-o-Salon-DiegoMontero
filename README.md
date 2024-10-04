@@ -24,7 +24,7 @@ En los meses posteriores al memorando, Microsoft lanzaría su primer navegador w
 |2. Publicidad online| Predijo que Internet se convertiría en el principal vehículo promocional.|![file (2).png](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/file%20(2).png)
 |3. Videollamadas y streaming| Anticipó el desarrollo de las videollamadas y la transmisión de video en tiempo real2.|![file (3).png](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/file%20(3).png)
 |4. Dispositivos Móviles| Gates vio que los dispositivos móviles se convertirían en herramientas esenciales para acceder a Internet. Esto se ha materializado con la proliferación de smartphones y tablets.|![file (4).png](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/file%20(4).png)
-|5. Servicios en la Nube| Aunque no usó el término “nube”, Gates habló sobre la importancia de los servicios en línea y el almacenamiento de datos, lo que hoy conocemos como computación en la nube.|![12.png](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/12.png)
+|5. Servicios en la Nube| Aunque no usó el término “nube”, Gates habló sobre la importancia de los servicios en línea y el almacenamiento de datos, lo que hoy conocemos como computación en la nube.|![12.png](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/file%20(5).png)
 
 Dicho memorando hizo un punto de inflexión para Microsoft, dándole el enfoque hacia la web y consolidando a Bill Gates como un líder tecnológico visionario
 
