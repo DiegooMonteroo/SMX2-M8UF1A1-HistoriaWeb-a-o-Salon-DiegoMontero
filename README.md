@@ -20,7 +20,7 @@ En los meses posteriores al memorando, Microsoft lanzaría su primer navegador w
 
 | Punto clave | Respuesta| emoji | 
 |-------------|----------|------|
-|1. Importancia de la web| Gates destacó que Internet sería esencial para todas las áreas del negocio.|![file (1).png)(https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/file%20(1).png)|
+|1. Importancia de la web| Gates destacó que Internet sería esencial para todas las áreas del negocio.|![file (1).png](https://github.com/DiegooMonteroo/SMX2-M8UF1A1-HistoriaWeb-a-o-Salon-DiegoMontero/blob/main/file%20(1).png)|
 |2. Publicidad online| Predijo que Internet se convertiría en el principal vehículo promocional.|
 |3. Videollamadas y streaming| Anticipó el desarrollo de las videollamadas y la transmisión de video en tiempo real2.|
 |4. Dispositivos Móviles| Gates vio que los dispositivos móviles se convertirían en herramientas esenciales para acceder a Internet. Esto se ha materializado con la proliferación de smartphones y tablets.|
